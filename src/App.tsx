@@ -1,7 +1,5 @@
 import { RepositoryList } from './components/RepositoryList'
 
-function App() {
+export function App() {
   return <RepositoryList />
 }
-
-export default App
